@@ -1,0 +1,10 @@
+C:\carpeta\GIT\HolaMundo\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\carpeta\GIT\HolaMundo\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\carpeta\GIT\HolaMundo\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\carpeta\GIT\HolaMundo\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojAssemblyReference.cache
+C:\carpeta\GIT\HolaMundo\HolaMundo\HolaMundo\obj\Debug\HolaMundo.Form1.resources
+C:\carpeta\GIT\HolaMundo\HolaMundo\HolaMundo\obj\Debug\HolaMundo.Properties.Resources.resources
+C:\carpeta\GIT\HolaMundo\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.GenerateResource.cache
+C:\carpeta\GIT\HolaMundo\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\carpeta\GIT\HolaMundo\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\carpeta\GIT\HolaMundo\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
