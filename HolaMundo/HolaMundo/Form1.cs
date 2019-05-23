@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Threading.Tasks;
 
 namespace HolaMundo
 {
@@ -19,10 +20,16 @@ namespace HolaMundo
             InitializeComponent();
         }
 
-        private void Btnllamar_Click(object sender, EventArgs e)
+        private async void Btnllamar_Click(object sender, EventArgs e)
         {
             Tareas t = new Tareas();
-            recibe= t.Sumar();
+            //recibe= t.Sumar();
+            //lblprimer.Text = recibe.ToString();
+
+            await Task.Run(() =>
+            {
+                recibe = t.Sumar();
+            });
             lblprimer.Text = recibe.ToString();
         }
 

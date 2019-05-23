@@ -12,7 +12,7 @@ namespace HolaMundo
         public long Sumar()
         {//como el numero es muy grande es de tipo long junto con el i
 
-            for(long i= 1; i<=100000000; i++)
+            for(long i= 1; i<=1000000000; i++)
             {
                 var = var + i;
             }
